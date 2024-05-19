@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BankSystem
 
 ## Overview
@@ -31,3 +32,6 @@ Enrolls customers in various financial services, setting terms such as interest 
 ### OperatorInput Class:
 Serves as the user interface for the bank system.
 Interprets user commands to trigger specific operations (e.g., adding accounts or customers).
+=======
+# DataModeling
+>>>>>>> 7aec2084b1f141d665521c7ad19b321f6aacdf0b
